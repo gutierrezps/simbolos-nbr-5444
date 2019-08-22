@@ -5,6 +5,7 @@ compatíveis com o LibreCAD.
 
 ## Símbolos
 
+* `ilum`: iluminação, tubular (`tub`)
 * `inter`: interruptores simples, duplo e triplo (`x1`, `x2`, `x3`)
 * `quad`: quadro de distribuição, parcial (`parc`)
 * `telecom`: pontos de comunicação (telefone/rede), alturas baixa, média e teto (`bx`, `md`, `teto`)
