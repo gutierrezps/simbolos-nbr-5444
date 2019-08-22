@@ -6,6 +6,7 @@ compatíveis com o LibreCAD.
 ## Símbolos
 
 * `inter`: interruptores simples, duplo e triplo (`x1`, `x2`, `x3`)
+* `quad`: quadro de distribuição, parcial (`parc`)
 * `telecom`: pontos de comunicação (telefone/rede), alturas baixa e média (`bx`, `md`)
 * `tom`: tomadas simples e dupla (`x1`, `x2`), alturas baixa, média e alta
 (`bx`, `md`, `al`)
